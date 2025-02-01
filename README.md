@@ -9,4 +9,5 @@ Proyek ini bertujuan untuk menganalisis ketersediaan tempat tidur di rumah sakit
 ✅ **Menghitung Rasio Tempat Tidur per Penduduk** – Menentukan jumlah tempat tidur per 1.000 penduduk.  
 ![Rasio Kamar RS](https://github.com/user-attachments/assets/31fa6d07-4edf-4f5a-b7a9-4fb338441786)
 ✅ **Visualisasi Data** – Membuat peta sebaran ketersediaan tempat tidur. 
-![Jumlah Kamar RS](https://github.com/user-attachments/assets/046124ce-1c5d-411f-8cfd-a013690df41a)
+![Rasio Map](https://github.com/user-attachments/assets/a9a78d5f-281a-427b-bc2d-6c99d8501577)
+
